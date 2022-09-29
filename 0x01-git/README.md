@@ -1,1 +1,1 @@
-My second commit
+AlX School is a good school.
